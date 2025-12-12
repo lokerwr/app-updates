@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2",
-  "build_number": 2,
+  "version": "0.0.3",
+  "build_number": 3,
   "download_url": "https://github.com/lokerwr/app-updates/raw/main/downloads/app-latest.apk",
   "min_required_version": "1.0.0",
   "release_notes": "• Fixed login issues\n• Improved performance\n• Added dark mode",
